@@ -127,8 +127,8 @@ const Navbar = () => {
           bottom="0"
           height="100%"
           zIndex="10"
-          maxWidth="500px"
-          minWidth="300px"
+          maxWidth="370px"
+          minWidth="170px"
           backgroundColor={background}
         >
           {/* CLOSE ICON */}
